@@ -161,5 +161,5 @@ Thumbs.db #thumbnail cache on Windows
 
 
 .env
-static/
+/static/
 
